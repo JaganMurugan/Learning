@@ -98,3 +98,5 @@ console.log(isPowerofTwo(8))
 
 console.log(isPowerOfTwo(10));
 
+console.log(isPowerOfTwo(14));
+

@@ -4,3 +4,6 @@ function fib(n){
 
 
 fib(1);
+
+fib(4);
+

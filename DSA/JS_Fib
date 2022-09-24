@@ -1,0 +1,6 @@
+function fib(n){
+    console.log("check")
+}
+
+
+fib(1);

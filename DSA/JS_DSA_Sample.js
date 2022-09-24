@@ -96,3 +96,5 @@ console.log(isPowerofTwo(8))
 
 //ideal solution - can make Big O constant using below code
 
+console.log(isPowerOfTwo(10));
+

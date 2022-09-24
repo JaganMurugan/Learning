@@ -100,3 +100,5 @@ console.log(isPowerOfTwo(10));
 
 console.log(isPowerOfTwo(14));
 
+console.log(isPowerOfTwo(24));
+
